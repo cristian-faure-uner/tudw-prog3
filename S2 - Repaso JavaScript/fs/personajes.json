@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Daenerys Targaryen"
+    },
+    {
+        "id": 2,
+        "nombre": "Samwell Tarly"
+    },
+    {
+        "id": 3,
+        "nombre": "Jon Snow"
+    },
+    {
+        "id": 4,
+        "nombre": "Arya Stark"
+    },
+    {
+        "id": 5,
+        "nombre": "Sansa Stark"
+    },
+    {
+        "id": 6,
+        "nombre": "Brandon Stark"
+    },
+    {
+        "id": 7,
+        "nombre": "Ned Stark"
+    }
+]

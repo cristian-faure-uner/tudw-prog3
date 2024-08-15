@@ -1,0 +1,7 @@
+Unidad 1: Introducción a Estructuras de Datos y TDA
+1. Revisión de conceptos de programación orientada a objetos: objetos, clases, referencias, herencia y excepciones. Interfaces y Clases Abstractas. Encapsulamiento. Polimorfismo. 
+2. Estructuras de Datos: definición y características. Modelado e implementación. 
+3. Introducción al Análisis de Algoritmos. 
+4. Expresiones Regulares
+5. Tipo de Dato Abstracto (TDA). Especificaciones de TDA
+Unidad 2: Colecciones
