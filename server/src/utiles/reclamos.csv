@@ -1,0 +1,24 @@
+RECLAMO,TIPO,ESTADO,FECHA CREADO,CLIENTE
+5,Falla de motor,Cancelado,2024-08-19 06:00:00,Yara Greyjoy
+6,Falla de motor,Cancelado,2024-08-19 07:00:00,Yara Greyjoy
+7,Falla de frenos,Creado,2024-08-15 07:15:00,Catelyn Stark
+8,Falla de suspensión,Creado,2024-08-15 08:00:00,Kahl Drogo
+9,Aprobación de cobertura,Creado,2024-08-15 09:30:00,Kahl Drogo
+10,Aprobación de cobertura,Procesado,2024-08-15 09:00:00,Kahl Drogo
+11,Falla de suspensión,Procesado,2024-08-15 15:00:00,Catelyn Stark
+12,Falla de motor,Procesado,2024-08-25 11:00:00,Kahl Drogo
+13,Falla de motor,Cancelado,2024-08-25 17:17:25,Kahl Drogo
+15,Falla de motor,Creado,2024-08-28 19:26:12,Jose Battaglia
+17,Falla de motor,Creado,2024-10-02 15:53:52,Kahl Drogo
+18,Falla de motor,Creado,2024-10-02 16:47:56,Kahl Drogo
+19,Falla de motor,Creado,2024-10-02 17:03:57,Kahl Drogo
+20,Falla de motor,Creado,2024-10-09 16:42:04,Kahl Drogo
+21,Falla de motor,Creado,2024-10-09 16:42:24,Kahl Drogo
+22,Falla de motor,Creado,2024-10-09 17:14:33,Kahl Drogo
+23,Falla de motor,Creado,2024-10-09 17:15:33,Kahl Drogo
+24,Falla de motor,Creado,2024-10-09 17:17:23,Kahl Drogo
+25,Falla de motor,Creado,2024-10-09 17:17:40,Kahl Drogo
+26,Falla de motor,Creado,2024-10-09 17:18:45,Kahl Drogo
+28,Falla de motor,Creado,2024-11-26 23:09:39,Yara Greyjoy
+29,Falla de motor,Creado,2024-11-27 19:49:41,Yara Greyjoy
+30,Falla de motor,Procesado,2024-11-27 19:51:18,Yara Greyjoy
